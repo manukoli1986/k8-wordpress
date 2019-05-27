@@ -1,4 +1,4 @@
-**Deploying WordPress and MySQL with Persistent Volumes
+**Deploying WordPress and MySQL with Persistent Volumes with secrets
 
 **Persistent Volume
 MySQL and Wordpress each require a PersistentVolume to store data. Their PersistentVolumeClaims will be created at the deployment step.
